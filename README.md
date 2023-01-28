@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm an aspiring Full-Stack Developer ⚡
+
+NOW
+
+- ✨ I'm creating projects to practice my skills
+- 📫 studying to improve
+- 🎧 Listening to music
+
 <!--
 **xeyrjo/xeyrjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
